@@ -1,0 +1,22 @@
+# Python environment
+.venv
+venv/
+
+# Kaggle credentials
+kaggle.json
+
+# Cache files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data files (optional if datasets are large)
+*.csv
+*.xlsx
+
